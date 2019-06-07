@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/luisllerena55/devopsTest/_apis/build/status/luisllerena.pipelines-java?branchName=master)](https://dev.azure.com/luisllerena55/devopsTest/_build/latest?definitionId=9&branchName=master)
 
 # Contributing
 
